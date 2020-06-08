@@ -1,2 +1,3 @@
 # Kaggle--Titanic
-Kaggle competition. Predicting survival on Titanic by using machine learning. Result: top 5% in leaderboard.
+Kaggle competition. Predicting the survival of Titanic passengers by using machine learning. 
+Result: top 5% (960/23598) in leaderboard.
